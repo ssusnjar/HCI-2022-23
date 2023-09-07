@@ -1,0 +1,24 @@
+:root{
+    --orange-color:#E4782A;
+    --blue-color:#77A1BC;
+    --light-grey-color:#D9D9D9;
+}
+
+body{
+    margin:0; 
+    
+}
+
+
+.orangeBtn{
+    width: 160px;
+    height: 42.04px;
+    background: #E4782A;
+    border-radius: 83px;
+    font-family: 'Cambay';
+    font-size: 20px;
+    text-align: center;
+    color: #FFFFFF;
+    border: 1px solid #E4782A;
+    line-height: 42.04px;
+}
